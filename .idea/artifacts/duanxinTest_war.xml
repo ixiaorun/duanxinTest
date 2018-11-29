@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="duanxinTest:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="duanxinTest.war">
+      <element id="artifact" artifact-name="duanxinTest:war exploded" />
+    </root>
+  </artifact>
+</component>
